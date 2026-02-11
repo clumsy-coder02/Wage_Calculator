@@ -22,7 +22,7 @@ The Wage Calculator helps you quickly determine how much you earned during a wor
 1. Run the program:
 
    ```bash
-   python main.py
+   python main.py or python3 main.py
    ```
 
 2. Enter the requested information when prompted:
